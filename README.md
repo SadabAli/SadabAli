@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadabali&label=Profile%20views&color=0e75b6&style=flat" alt="sadabali" /> </p>
 
-- 🔭 I’m currently working on **Indian Medicinal ⚕️Leaves Detection**
+- 🔭 I’m currently working on **Agentic AI**
 
 - 🌱 I’m currently learning **ML/DL**
 
