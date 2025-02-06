@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadabali&label=Profile%20views&color=0e75b6&style=flat" alt="sadabali" /> </p>
 
-- 🔭 I’m currently working on **Agentic AI**
+- 🔭 I’m currently working on **American-Sing-Language-to-TextSpeech-translation**
 
-- 🌱 I’m currently learning **ML/DL**
+- 🌱 I’m currently learning **MLOOPs**
 
 - 👯 I’m looking to collaborate on [ImageFormatter](https://github.com/SadabAli/ImageFormatter)
 
