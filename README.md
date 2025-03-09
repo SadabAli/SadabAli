@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **American-Sing-Language-to-TextSpeech-translation**
 
-- 🌱 I’m currently learning **MLOOPs**
+- 🌱 I’m currently learning **MLOPs**
 
 - 👯 I’m looking to collaborate on [ImageFormatter](https://github.com/SadabAli/ImageFormatter)
 
