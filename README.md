@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MLOPs**
 
-- 👯 I’m looking to collaborate on [ImageFormatter](https://github.com/SadabAli/ImageFormatter)
+- 👯 I’m looking to collaborate on [Indian-Sing-Language-to-TextSpeech-translation]([https://github.com/SadabAli/ImageFormatter](https://github.com/SadabAli/Indian-Sing-Language-to-TextSpeech-translation))
 
 - 👨‍💻 All of my projects are available at [https://github.com/SadabAli](https://github.com/SadabAli)
 
