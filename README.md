@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadabali&label=Profile%20views&color=0e75b6&style=flat" alt="sadabali" /> </p>
 
-- 🔭 I’m currently working on **American-Sing-Language-to-TextSpeech-translation**
+- 🔭 I’m currently working on **RAG Based ChatBot For Youtube Video Summerizer**
 
-- 🌱 I’m currently learning **MLOPs**
+- 🌱 I’m currently learning **MLOPs and AI Agent**
 
 - 👯 I’m looking to collaborate on [American-Sing-Language-to-TextSpeech-translation]([https://github.com/SadabAli/ImageFormatter](https://github.com/SadabAli/Indian-Sing-Language-to-TextSpeech-translation))
 
