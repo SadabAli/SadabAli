@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **RAG Based ChatBot For Youtube Video Summerizer**
 
-- 🌱 I’m currently learning **MLOPs and AI Agent**
+- 🌱 I’m currently learning **MLOPs and NLP**
 
 - 👯 I’m looking to collaborate on [American-Sing-Language-to-TextSpeech-translation]([https://github.com/SadabAli/ImageFormatter](https://github.com/SadabAli/Indian-Sing-Language-to-TextSpeech-translation))
 
